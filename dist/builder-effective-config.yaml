@@ -1,0 +1,6 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.aerolab.activate-mac
+productName: Activate macOS
+electronVersion: 2.0.8

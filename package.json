@@ -1,0 +1,29 @@
+{
+  "name": "activate-macos",
+  "version": "1.0.0",
+  "description": "I have no idea why I made this",
+  "main": "main.js",
+  "scripts": {
+    "dev": "NODE_ENV=development electron .",
+    "dist": "electron-builder",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "build": {
+    "appId": "com.aerolab.activate-mac",
+    "productName": "Activate macOS",
+    "directories": {
+      "buildResources": "build",
+      "output": "dist"
+    }
+  },
+  "keywords": [],
+  "author": "Aerolab",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.8",
+    "electron-builder": "^20.28.4"
+  },
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}

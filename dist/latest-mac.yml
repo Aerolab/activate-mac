@@ -1,0 +1,10 @@
+version: 1.0.0
+files:
+  - url: activate-macos-1.0.0-mac.zip
+    sha512: r3F4K2oPOau5AhCakPBQet7xgGp2VX5V29jSW40xM4iHHZjSLpWnOHdgCh9ijNlN4YUJwUNok7e4hZDqIi474w==
+  - url: activate-macos-1.0.0.dmg
+    sha512: tpObXINxIk3vkto+ZWIvzQZX1MNaheQ0iB7NYedL3dUVIjvQnk6Pf2P+Aypo5Atn90yFqGgfnEnka0NZRMpPiw==
+    size: 51423318
+path: activate-macos-1.0.0-mac.zip
+sha512: r3F4K2oPOau5AhCakPBQet7xgGp2VX5V29jSW40xM4iHHZjSLpWnOHdgCh9ijNlN4YUJwUNok7e4hZDqIi474w==
+releaseDate: '2018-04-29T00:54:32.278Z'
